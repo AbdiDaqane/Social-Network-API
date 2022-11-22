@@ -174,12 +174,5 @@ This will not be a model, but rather will be used as the `reaction` field's subd
 >
 > * A repository that only includes starter code
 
-This Challenge is graded based on the following criteria:
-
-### Deliverables: 10%
-
-* Your GitHub repository containing your application code.
-
-### Walkthrough Video: 37%
 
 
