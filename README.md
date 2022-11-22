@@ -22,12 +22,6 @@ WHEN I test API POST and DELETE routes in Insomnia
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 ```
 
-## Getting Started
-
-Be sure to have MongoDB installed on your machine. Follow the [MongoDB installation guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/mongodb/how-to-install-mongodb) to install MongoDB locally.
-
-Use the following guidelines to set up your models and API routes:
-
 ### Models
 
 **User**:
